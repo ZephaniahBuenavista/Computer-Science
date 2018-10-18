@@ -1,9 +1,4 @@
-What is Computer Science?                                                                                                      
+Portfolio
 
-Computer Science is the study of computing and progamming of a computer and how they have developed. Where you analyze programs and solve them and to study the performance of computer's software, hardware and applications. It deals with the science of processing information in computers. Overall computer science covers the design of computers and how they work.
+Recently in my computer science class we worked with turtles in python. Turtles is a program in python used to draw things in the program you have a turtle that will move in a certain way depending on what you tell it to do in a line. I was assigned a task to create something using turtles and with that I thought of a few ideas that I could do and I chose to draw a turtle. I chose this topic because I believe it was doable and somewhat difficult. As I worked on drawing the turtle I had some difficulty on drawing the back because it had a bunch of shapes and would take along time to draw an accurate one so I simplified it to just one pentagon with lines.  With all that done I was able to finish the drawing and I was able to turn it in.
 
-
-
-Ada Lovelace
-
-Ada Lovelace one of the first computer programmers and even considered as the first computer programmer. She invented the first computer program which made a way for an engine to calculate Bernouli numbers in steps. She met with Charles Babbage and her became her mentor, Babbage is also known as the father computer. Her contributions to computers language went unnoticed until the 1950s. In those times she recieved many honors for her work and in 1980 had a computer languaged named after.
